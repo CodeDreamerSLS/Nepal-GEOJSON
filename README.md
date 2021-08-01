@@ -11,4 +11,4 @@ Note: I just use json file for my mapbox or leaflet, however i have uploaded all
 * [Province6](province6.geojson)
 * [Province7](province7.geojson)
 
-###It's the updated map by [nepal_gov] (https://www.nepal.gov.np/)
+###It's the updated map by [nepal_gov](https://www.nepal.gov.np/)
